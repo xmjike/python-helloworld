@@ -3,3 +3,5 @@ Git is free software.
 Git status.
 change txt .
 repeat change txt.
+test git rm.add .
+
